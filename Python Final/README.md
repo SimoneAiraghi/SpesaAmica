@@ -1,8 +1,11 @@
-# Python Analysis
-There are two Jupyter notebooks in the folder:
+# 🐍 Python Analysis
 
-"Data_Cleaning_and_Exploratory_Data_Analysis" which begins with the initial dataset "data_set_project_andHealth20232024" cleans it, performs exploratory analysis, and ultimately saves the cleaned dataset as "CleanDataset".
+This folder contains two Jupyter notebooks:
 
-"Clustering_and_Statistical_Analysis" which utilizes the "CleanDataset" for clustering and statistical analysis.
+- **`Data_Cleaning_and_Exploratory_Data_Analysis.ipynb`**  
+  Starts from the initial dataset **`data_set_project_andHealth20232024`**, performs data cleaning and exploratory analysis, and saves the processed output as **`CleanDataset`**.
 
-Both datasets are already available within the folder, and the two notebooks can be run independently.
+- **`Clustering_and_Statistical_Analysis.ipynb`**  
+  Uses the **`CleanDataset`** to perform clustering and statistical analysis.
+
+Both datasets are already included in the folder, and the notebooks can be executed independently.

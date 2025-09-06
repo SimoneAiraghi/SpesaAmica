@@ -16,10 +16,10 @@ SpesaAmica is a project that combines **data analysis** and **game development**
 
 ---
 
-## 🖼️ Summary Images
+## 🖼️ Summary Images"
 ![Identified Personas](Images/Personas_Identification.png)
 
-![Game Personalization](Images/Personas.png)
+![Game Personalization](Images/Personas.jpg)
 
 ## 🧑‍💻 Contributions
 - [Lucia Giuffrida](https://github.com/LuciaGiuffrida)
