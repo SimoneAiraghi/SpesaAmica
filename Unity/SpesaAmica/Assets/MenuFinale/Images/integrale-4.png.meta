@@ -1,0 +1,1087 @@
+fileFormatVersion: 2
+guid: 4d682602ea9a64f1392b49697a49893e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8729928792354977992
+    second: integrale-4_0
+  - first:
+      213: 4163171688166934794
+    second: integrale-4_1
+  - first:
+      213: 3315363122268641589
+    second: integrale-4_2
+  - first:
+      213: 7601587338438225726
+    second: integrale-4_3
+  - first:
+      213: -2180606048817817783
+    second: integrale-4_4
+  - first:
+      213: 1297059385410082614
+    second: integrale-4_5
+  - first:
+      213: 4512933820195491392
+    second: integrale-4_6
+  - first:
+      213: 5087060134717694951
+    second: integrale-4_7
+  - first:
+      213: 4334240346601385354
+    second: integrale-4_8
+  - first:
+      213: -7046038992373416636
+    second: integrale-4_9
+  - first:
+      213: 5905472689916691065
+    second: integrale-4_10
+  - first:
+      213: -8689837340762136411
+    second: integrale-4_11
+  - first:
+      213: -9057565234164409038
+    second: integrale-4_12
+  - first:
+      213: -1146461556726978791
+    second: integrale-4_13
+  - first:
+      213: -4733076537704964133
+    second: integrale-4_14
+  - first:
+      213: -7095983807947027146
+    second: integrale-4_15
+  - first:
+      213: 4301432352881956150
+    second: integrale-4_16
+  - first:
+      213: -370298696669106945
+    second: integrale-4_17
+  - first:
+      213: 5977287792756381998
+    second: integrale-4_18
+  - first:
+      213: 7500726856364862596
+    second: integrale-4_19
+  - first:
+      213: -6151772312842306858
+    second: integrale-4_20
+  - first:
+      213: -6604903426242066513
+    second: integrale-4_21
+  - first:
+      213: 3922457819434598213
+    second: integrale-4_22
+  - first:
+      213: -8871356973777339737
+    second: integrale-4_23
+  - first:
+      213: 1666491480077690035
+    second: integrale-4_24
+  - first:
+      213: -6553660315980471817
+    second: integrale-4_25
+  - first:
+      213: 344855436543669326
+    second: integrale-4_26
+  - first:
+      213: -8713991604889808717
+    second: integrale-4_27
+  - first:
+      213: 9135169642217903500
+    second: integrale-4_28
+  - first:
+      213: -4514212956922472230
+    second: integrale-4_29
+  - first:
+      213: -3314680875798673286
+    second: integrale-4_30
+  - first:
+      213: -987743859637980911
+    second: integrale-4_31
+  - first:
+      213: 8122053012570846740
+    second: integrale-4_32
+  - first:
+      213: 3808620646803084287
+    second: integrale-4_33
+  - first:
+      213: -3179744019697805537
+    second: integrale-4_34
+  - first:
+      213: -6913532308927226469
+    second: integrale-4_35
+  - first:
+      213: -2268998835458637178
+    second: integrale-4_36
+  - first:
+      213: 7671430711373517996
+    second: integrale-4_37
+  - first:
+      213: -9199167076042455751
+    second: integrale-4_38
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: integrale-4_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 607
+        width: 330
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8f5c6cbffe62970800000000000000
+      internalID: 8729928792354977992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_1
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 546
+        width: 343
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09472cc79e86c930800000000000000
+      internalID: 4163171688166934794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_2
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 576
+        width: 319
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5399044b139820e20800000000000000
+      internalID: 3315363122268641589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 632
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fa7bcc8634e7960800000000000000
+      internalID: 7601587338438225726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 633
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94755291a5eecb1e0800000000000000
+      internalID: -2180606048817817783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 632
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 4.1780553, y: -0.7665977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63754ff83a4100210800000000000000
+      internalID: 1297059385410082614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 633
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e499f166921ae30800000000000000
+      internalID: 4512933820195491392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 632
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e326e87d3ed89640800000000000000
+      internalID: 5087060134717694951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 633
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d6756a1a0562c30800000000000000
+      internalID: 4334240346601385354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_9
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 633
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44df7023ed0773e90800000000000000
+      internalID: -7046038992373416636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_10
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 633
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97241497f1474f150800000000000000
+      internalID: 5905472689916691065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_11
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 633
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0a2f3bafe776780800000000000000
+      internalID: -8689837340762136411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_12
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 632
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dd3b798601d4280800000000000000
+      internalID: -9057565234164409038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_13
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 633
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917a5a2d943f610f0800000000000000
+      internalID: -1146461556726978791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 632
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf1c5347fbb05eb0800000000000000
+      internalID: -4733076537704964133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_15
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 633
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dc463a250068d90800000000000000
+      internalID: -7095983807947027146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_16
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 632
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d6ea5fe1c1bb30800000000000000
+      internalID: 4301432352881956150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_17
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 633
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc6f3c1c4f6cdaf0800000000000000
+      internalID: -370298696669106945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 595
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29d587149793f250800000000000000
+      internalID: 5977287792756381998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_19
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 579
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c2cd6d55fe71860800000000000000
+      internalID: 7500726856364862596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_20
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 578
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da73f9cca380aaa0800000000000000
+      internalID: -6151772312842306858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_21
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 578
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7c41ff35ba654a0800000000000000
+      internalID: -6604903426242066513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 579
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f3addca9e5f6630800000000000000
+      internalID: 3922457819434598213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_23
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 579
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa3156b5db92e480800000000000000
+      internalID: -8871356973777339737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_24
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 578
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4ee33fb21902710800000000000000
+      internalID: 1666491480077690035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_25
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 578
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1e8675aa8bc05a0800000000000000
+      internalID: -6553660315980471817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 84
+        width: 307
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e443c02413c29c400800000000000000
+      internalID: 344855436543669326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_27
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 83
+        width: 308
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b09ec6ddcea11780800000000000000
+      internalID: -8713991604889808717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 105
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85945fa364a6ce70800000000000000
+      internalID: 9135169642217903500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 106
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad89b26ab3b4a51c0800000000000000
+      internalID: -4514212956922472230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 106
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a784d3e2e43eff1d0800000000000000
+      internalID: -3314680875798673286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 105
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11174356134da42f0800000000000000
+      internalID: -987743859637980911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 105
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4163d25be2457b070800000000000000
+      internalID: 8122053012570846740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 105
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff39ae0ac40fad430800000000000000
+      internalID: 3808620646803084287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_34
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 106
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f175d3d39a74fd3d0800000000000000
+      internalID: -3179744019697805537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_35
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 106
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dd4379ef23e00a0800000000000000
+      internalID: -6913532308927226469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_36
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 105
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68286b0b495e280e0800000000000000
+      internalID: -2268998835458637178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_37
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 106
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4d0764695667a60800000000000000
+      internalID: 7671430711373517996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: integrale-4_38
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 106
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935450b984ef55080800000000000000
+      internalID: -9199167076042455751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ef674f2783c3f4e70bd20ae1545a0c2a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      integrale-4_0: 8729928792354977992
+      integrale-4_1: 4163171688166934794
+      integrale-4_10: 5905472689916691065
+      integrale-4_11: -8689837340762136411
+      integrale-4_12: -9057565234164409038
+      integrale-4_13: -1146461556726978791
+      integrale-4_14: -4733076537704964133
+      integrale-4_15: -7095983807947027146
+      integrale-4_16: 4301432352881956150
+      integrale-4_17: -370298696669106945
+      integrale-4_18: 5977287792756381998
+      integrale-4_19: 7500726856364862596
+      integrale-4_2: 3315363122268641589
+      integrale-4_20: -6151772312842306858
+      integrale-4_21: -6604903426242066513
+      integrale-4_22: 3922457819434598213
+      integrale-4_23: -8871356973777339737
+      integrale-4_24: 1666491480077690035
+      integrale-4_25: -6553660315980471817
+      integrale-4_26: 344855436543669326
+      integrale-4_27: -8713991604889808717
+      integrale-4_28: 9135169642217903500
+      integrale-4_29: -4514212956922472230
+      integrale-4_3: 7601587338438225726
+      integrale-4_30: -3314680875798673286
+      integrale-4_31: -987743859637980911
+      integrale-4_32: 8122053012570846740
+      integrale-4_33: 3808620646803084287
+      integrale-4_34: -3179744019697805537
+      integrale-4_35: -6913532308927226469
+      integrale-4_36: -2268998835458637178
+      integrale-4_37: 7671430711373517996
+      integrale-4_38: -9199167076042455751
+      integrale-4_4: -2180606048817817783
+      integrale-4_5: 1297059385410082614
+      integrale-4_6: 4512933820195491392
+      integrale-4_7: 5087060134717694951
+      integrale-4_8: 4334240346601385354
+      integrale-4_9: -7046038992373416636
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

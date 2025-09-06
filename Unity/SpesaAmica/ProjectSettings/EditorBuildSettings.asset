@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scaffali.unity
+    guid: 52cb98cf421e94d109dfd6e4f39a0b7c
+  - enabled: 1
+    path: Assets/Scenes/Selezione Giocatore.unity
+    guid: b4b88d992f2874d01bd9641e157442e1
+  - enabled: 1
+    path: Assets/Scenes/cassa.unity
+    guid: 85c38713632790c49a4ee02bab2bdf56
+  - enabled: 1
+    path: Assets/Scenes/Menu finale copia.unity
+    guid: 562a9fa642a0a4a19bfdcc19d7e9882c
+  - enabled: 1
+    path: Assets/Scenes/Regole Gioco.unity
+    guid: 6d5080d67f24b4278827b90da2998289
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: bbec3a7872fc15b46adeaf38970ba1ff
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

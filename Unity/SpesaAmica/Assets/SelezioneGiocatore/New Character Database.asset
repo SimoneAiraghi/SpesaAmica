@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89af15cbdd9924fe0bd4ba183c9b6d82, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterDescription: '"All these concerns about climate change just seem like
+      a trend. I don''t think things are as serious as they say." '
+    characterSprite: {fileID: -3194367917160194855, guid: d33affcda9ef24e46b90c5ac96892eac, type: 3}
+  - characterDescription: '"Climate change is real and we need to do something. However
+      I think that with small and sustainable actions we can address it without getting
+      overly anxious."'
+    characterSprite: {fileID: -6521346793507321066, guid: 7302c1bd4912a4125b9d16147157586a, type: 3}
+  - characterDescription: '"Climate change is an imminent threat and every small
+      action counts. I constantly worry about the future of our planet and I always
+      look for ways to reduce my environmental impact."'
+    characterSprite: {fileID: -6693019930522712741, guid: f5985f68dd1a54761abdccfb5a0187de, type: 3}
